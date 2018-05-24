@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'http://rdsoberanianacional.com'),
 
     /*
     |--------------------------------------------------------------------------
@@ -104,7 +104,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY'),
+    'key' => env('APP_KEY', 'yo0BI6VwR2jZhu2iqTuG+463mP1kBvXuOH+FSQcok18='),
 
     'cipher' => 'AES-256-CBC',
 
